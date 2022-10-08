@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm S SUBASH RAO</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/115133891/194713691-3e2bc123-bc5d-4703-b7c8-f6f2edd396f4.gif">
+<img align="right"alt="coding"width="400"src="![image](https://user-images.githubusercontent.com/115133891/194714258-652dee85-2fe8-4701-90f4-c6c43d9d3a73.png)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subash-rao&label=Profile%20views&color=0e75b6&style=flat" alt="subash-rao" /> </p>
 
