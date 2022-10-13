@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm S SUBASH RAO</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img>![img](https://user-images.githubusercontent.com/115133891/195509751-d9809a77-0f18-484a-a4e6-82aef865dbeb.gif)</img>
+![Untitled design](https://user-images.githubusercontent.com/115133891/195515034-31ddb9f2-4058-410a-9657-0722546c83df.gif)
 
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=subash-rao&label=Profile%20views&color=0e75b6&style=flat" alt="subash-rao" /> </a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subash-rao" alt="subash-rao" /></a> </p>
+
 
 - 🌱 I’m currently learning data sience **Data Science**
 
