@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm S SUBASH RAO</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"alt="coding"width="400"src="![image](https://user-images.githubusercontent.com/115133891/194714258-652dee85-2fe8-4701-90f4-c6c43d9d3a73.png)
-">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subash-rao&label=Profile%20views&color=0e75b6&style=flat" alt="subash-rao" /> </p>
+<img>![img](https://user-images.githubusercontent.com/115133891/195509751-d9809a77-0f18-484a-a4e6-82aef865dbeb.gif)</img>
+
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=subash-rao&label=Profile%20views&color=0e75b6&style=flat" alt="subash-rao" /> </a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subash-rao" alt="subash-rao" /></a> </p>
 
