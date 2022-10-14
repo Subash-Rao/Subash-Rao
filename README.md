@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm S SUBASH RAO</h1>
+<h1 align="center">Hi 👋, I'm SUBASH RAO</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 ![Untitled design](https://user-images.githubusercontent.com/115133891/195515034-31ddb9f2-4058-410a-9657-0722546c83df.gif)
