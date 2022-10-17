@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm S SUBASH RAO</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-![Untitled design](https://user-images.githubusercontent.com/115133891/195515034-31ddb9f2-4058-410a-9657-0722546c83df.gif)
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=subash-rao&label=Profile%20views&color=0e75b6&style=flat" alt="subash-rao" /> </a>
 
